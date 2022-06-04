@@ -1,1 +1,17 @@
-
+<?xml version-"1.0" encoding="UTF-8"?>
+<bug_report>
+<ID>Т111</ID>
+<Title>Невозможность редактирования комментария по ролью Редактор</Title>
+<Module>Комментарии</Module>
+<Program_version>10</Program_version>
+<Environment>UAT</Environment>
+<Severity>Medium</Severity>
+<Priority>High</Priority>
+<Status>Open</Status>
+<Author>Tester</Author>
+<Appointed_to>Developer</Appointed_to>
+<Steps>123</Steps>
+<Actual_result>Невозможность редактирования комментария по ролью Редактор</Actual_result>
+<Expected_Result>Редактор может редактировать комментарии</Expected_Result>
+<Applications>Видео</Applications>
+</bug_report>
